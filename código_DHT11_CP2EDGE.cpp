@@ -1,3 +1,5 @@
+// Código utilizando DHT11
+
 #include <LiquidCrystal.h>
 #include "dht.h" //INCLUSÃO DE BIBLIOTECA
 const int pinoDHT11 = A1; //PINO ANALÓGICO UTILIZADO PELO DHT11
